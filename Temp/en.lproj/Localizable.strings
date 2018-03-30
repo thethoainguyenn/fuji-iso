@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Demo
+
+  Created by Fujinet on 3/29/18.
+  Copyright © 2018 Fujinet. All rights reserved.
+*/
+username = "Username";
+password = "Password";
+btn_login = "Login";
+txt_login = "LOGIN";
+validation_un = "Please input Username";
+validation_pw = "Please input Password";
+vadidation_un_pw = "Username or Password is incorrect";
+login_success = "Login success";

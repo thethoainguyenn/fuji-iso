@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Demo
+
+  Created by Fujinet on 3/29/18.
+  Copyright © 2018 Fujinet. All rights reserved.
+*/
+username = "Tài khoản";
+password = "Mật khẩu";
+btn_login = "Đăng nhập";
+txt_login = "ĐĂNG NHẬP";
+validation_un = "Hãy nhập Tài khoản";
+validation_pw = "Hãy nhập Mật khẩu";
+vadidation_un_pw = "Tài khoản hoặc mật khẩu bị sai";
+login_success = "Đăng nhập thành công";

@@ -1,0 +1,165 @@
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "0Zf-Xd-DU4"; */
+"0Zf-Xd-DU4.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "/"; ObjectID = "2TH-8L-gTL"; */
+"2TH-8L-gTL.text" = "/";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "2fR-9a-GDZ"; */
+"2fR-9a-GDZ.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Tiếng Việt"; ObjectID = "3r8-Ud-SKT"; */
+"3r8-Ud-SKT.normalTitle" = "Tiếng Việt";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "58V-u7-L9y"; */
+"58V-u7-L9y.text" = "Notification";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "6J6-7f-P6P"; */
+"6J6-7f-P6P.normalTitle" = "English";
+
+/* Class = "UIButton"; normalTitle = "Read DB"; ObjectID = "7ta-Ci-JC9"; */
+"7ta-Ci-JC9.normalTitle" = "Read DB";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "84E-q6-a4A"; */
+"84E-q6-a4A.text" = "Username";
+
+/* Class = "UILabel"; text = "Thể thao"; ObjectID = "9HU-9b-z9y"; */
+"9HU-9b-z9y.text" = "Thể thao";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "AkA-h2-xbe"; */
+"AkA-h2-xbe.text" = "Password";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "CqP-K5-FEy"; */
+"CqP-K5-FEy.text" = "Title";
+
+/* Class = "UILabel"; text = "Content"; ObjectID = "EHJ-dP-vj3"; */
+"EHJ-dP-vj3.text" = "Content";
+
+/* Class = "UILabel"; text = "Xuất"; ObjectID = "Ec2-TE-s4y"; */
+"Ec2-TE-s4y.text" = "Xuất";
+
+/* Class = "UILabel"; text = "Sức khoẻ"; ObjectID = "EoO-h3-WrK"; */
+"EoO-h3-WrK.text" = "Sức khoẻ";
+
+/* Class = "UISegmentedControl"; FPZ-m3-XW1.segmentTitles[0] = "Có"; ObjectID = "FPZ-m3-XW1"; */
+"FPZ-m3-XW1.segmentTitles[0]" = "Có";
+
+/* Class = "UISegmentedControl"; FPZ-m3-XW1.segmentTitles[1] = "Không"; ObjectID = "FPZ-m3-XW1"; */
+"FPZ-m3-XW1.segmentTitles[1]" = "Không";
+
+/* Class = "UILabel"; text = "Nam"; ObjectID = "Hlj-jO-4Uk"; */
+"Hlj-jO-4Uk.text" = "Nam";
+
+/* Class = "UILabel"; text = "Nội dung response"; ObjectID = "JDy-3u-wVt"; */
+"JDy-3u-wVt.text" = "Nội dung response";
+
+/* Class = "UIButton"; normalTitle = "Read from clipboard"; ObjectID = "LBY-Du-B4k"; */
+"LBY-Du-B4k.normalTitle" = "Read from clipboard";
+
+/* Class = "UILabel"; text = "Request/Response"; ObjectID = "LRv-RP-h77"; */
+"LRv-RP-h77.text" = "Request/Response";
+
+/* Class = "UITextField"; text = "admin"; ObjectID = "LiR-wk-xFk"; */
+"LiR-wk-xFk.text" = "admin";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "MQy-6a-xMx"; */
+"MQy-6a-xMx.text" = "Email";
+
+/* Class = "UILabel"; text = "Notification information"; ObjectID = "NfH-71-PQh"; */
+"NfH-71-PQh.text" = "Notification information";
+
+/* Class = "UIButton"; normalTitle = "Write file"; ObjectID = "Nha-dB-Vq2"; */
+"Nha-dB-Vq2.normalTitle" = "Write file";
+
+/* Class = "UILabel"; text = "yyyy/mm/dd"; ObjectID = "OuN-Ok-3uf"; */
+"OuN-Ok-3uf.text" = "yyyy/mm/dd";
+
+/* Class = "UILabel"; text = "Password: ?????"; ObjectID = "PRf-bf-8bq"; */
+"PRf-bf-8bq.text" = "Password: ?????";
+
+/* Class = "UILabel"; text = "Giới tính"; ObjectID = "QyY-Fc-2Wc"; */
+"QyY-Fc-2Wc.text" = "Giới tính";
+
+/* Class = "UILabel"; text = "Nhập"; ObjectID = "Sn7-cG-mIY"; */
+"Sn7-cG-mIY.text" = "Nhập";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "Ugs-1U-mEm"; */
+"Ugs-1U-mEm.text" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Copy to clipboard"; ObjectID = "VWL-ey-crv"; */
+"VWL-ey-crv.normalTitle" = "Copy to clipboard";
+
+/* Class = "UILabel"; text = "Clipboard"; ObjectID = "Wyj-UK-rw0"; */
+"Wyj-UK-rw0.text" = "Clipboard";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "XJk-CH-c9r"; */
+"XJk-CH-c9r.text" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Read file"; ObjectID = "XUF-4p-Nv6"; */
+"XUF-4p-Nv6.normalTitle" = "Read file";
+
+/* Class = "UILabel"; text = "Phone number"; ObjectID = "aoO-U5-c0C"; */
+"aoO-U5-c0C.text" = "Phone number";
+
+/* Class = "UILabel"; text = "Nội dung sau khi parse XML"; ObjectID = "cIK-jP-awj"; */
+"cIK-jP-awj.text" = "Nội dung sau khi parse XML";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "cSm-Qb-aVA"; */
+"cSm-Qb-aVA.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Post notification"; ObjectID = "eEQ-VC-Y1q"; */
+"eEQ-VC-Y1q.normalTitle" = "Post notification";
+
+/* Class = "UILabel"; text = "<username>"; ObjectID = "eoW-Vz-lzb"; */
+"eoW-Vz-lzb.text" = "<username>";
+
+/* Class = "UIButton"; normalTitle = "Write DB"; ObjectID = "gIe-9C-boR"; */
+"gIe-9C-boR.normalTitle" = "Write DB";
+
+/* Class = "UILabel"; text = "Nữ"; ObjectID = "gpE-8v-9nC"; */
+"gpE-8v-9nC.text" = "Nữ";
+
+/* Class = "UILabel"; text = "LOGIN"; ObjectID = "iFB-WD-zoZ"; */
+"iFB-WD-zoZ.text" = "LOGIN";
+
+/* Class = "UILabel"; text = "Url"; ObjectID = "lJw-ng-l2H"; */
+"lJw-ng-l2H.text" = "Url";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "lRq-Uq-AAf"; */
+"lRq-Uq-AAf.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Lập trình"; ObjectID = "mHL-Iq-Iay"; */
+"mHL-Iq-Iay.text" = "Lập trình";
+
+/* Class = "UILabel"; text = "Demo list"; ObjectID = "nf2-3K-ZdN"; */
+"nf2-3K-ZdN.text" = "Demo list";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "p3i-wl-lIO"; */
+"p3i-wl-lIO.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "View Control/Stored Data"; ObjectID = "p5A-1o-JvJ"; */
+"p5A-1o-JvJ.text" = "View Control/Stored Data";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "qDb-zu-2ag"; */
+"qDb-zu-2ag.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "Ngày sinh"; ObjectID = "qJV-Gf-PhB"; */
+"qJV-Gf-PhB.text" = "Ngày sinh";
+
+/* Class = "UIButton"; normalTitle = "Request URL"; ObjectID = "qxs-Uh-6xk"; */
+"qxs-Uh-6xk.normalTitle" = "Request URL";
+
+/* Class = "UILabel"; text = "Nhận tin mới"; ObjectID = "rcH-vu-THg"; */
+"rcH-vu-THg.text" = "Nhận tin mới";
+
+/* Class = "UILabel"; text = "Chào"; ObjectID = "tuX-mi-CZj"; */
+"tuX-mi-CZj.text" = "Chào";
+
+/* Class = "UITextField"; text = "admin"; ObjectID = "vCj-8f-FBb"; */
+"vCj-8f-FBb.text" = "admin";
+
+/* Class = "UILabel"; text = "Sở thích"; ObjectID = "vHU-u3-5Kd"; */
+"vHU-u3-5Kd.text" = "Sở thích";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "wys-K7-hME"; */
+"wys-K7-hME.normalTitle" = "Login";
